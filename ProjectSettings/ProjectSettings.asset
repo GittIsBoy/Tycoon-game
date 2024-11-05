@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
+<<<<<<< HEAD
   productGUID: 605af7e568298fb4b836cfda675acd45
+=======
+  productGUID: 32882dbc308e95a42abe8d4d4c2e12bf
+>>>>>>> f8c201b7a9adf637e19d8757a4316294e2b3552e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -946,7 +950,7 @@ PlayerSettings:
   cloudProjectId: 13b80cf4-e62f-4ef5-b998-bb3722c13d1f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Pet Healer
+  projectName: Recycle Kota Nusantara
   organizationId: gittzet
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
